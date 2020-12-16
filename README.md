@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Starting the mock server
-mockserver -p 8080 -m test/mocks
+
+### `mockserver -p 8080 -m test/mocks`
 
 ## Starting the project
 
